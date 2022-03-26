@@ -1,0 +1,20 @@
+{
+  "pbx": [
+    {
+      "ext": 3600,
+      "user": "Alexander Ruiz",
+      "dept": "TI",
+      "city": "Diriamba",
+      "factory": "planta 4",
+      "state": true
+    },
+    {
+      "ext": 3608,
+      "user": "Yida Ureña",
+      "dept": "RRHH",
+      "city": "Diriamba",
+      "factory": "planta 4",
+      "state": true
+    }
+  ]
+}
