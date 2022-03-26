@@ -1,20 +1,569 @@
-{
-  "pbx": [
-    {
-      "ext": 3600,
-      "user": "Alexander Ruiz",
-      "dept": "TI",
-      "city": "Diriamba",
-      "factory": "planta 4",
-      "state": true
-    },
-    {
-      "ext": 3608,
-      "user": "Yida Ureña",
-      "dept": "RRHH",
-      "city": "Diriamba",
-      "factory": "planta 4",
-      "state": true
-    }
-  ]
-}
+[
+  {
+    "ext": 3969,
+    "user": "Cynthia Guerrero",
+    "dept": "Serigrafia",
+    "position": "Entradas y Salidas-Serigrafias",
+    "city": "diriamba",
+    "factory": "Planta 5",
+    "state": true
+  },
+  {
+    "ext": 3970,
+    "user": "Joseph Berrios",
+    "dept": "Serigrafia",
+    "position": "Serigrafia",
+    "city": "diriamba",
+    "factory": "Planta 5",
+    "state": true
+  },
+  {
+    "ext": 3301,
+    "user": "Roxana Sanchez",
+    "dept": "Cumplimiento Social",
+    "position": "Asist. Cumplimiento Social",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3302,
+    "user": "Ernesto Alvarado",
+    "dept": "Mercadeo",
+    "position": "Asist. Mercadeo",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3304,
+    "user": "Kwang Su Lee  (Sr Zion)",
+    "dept": "Mercadeo",
+    "position": "Gte. Mercadeo",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3305,
+    "user": "Martha Ruiz",
+    "dept": "Nomina",
+    "position": "Nomina",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3306,
+    "user": "Eliett Artola",
+    "dept": "Recursos Humanos",
+    "position": "Asist. RR HH",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3307,
+    "user": "Maria Gabriela Esquivel",
+    "dept": "Recursos Humanos",
+    "position": "Gte. RR HH",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3309,
+    "user": "Seguridad Entrada Principal",
+    "dept": "Seguridad",
+    "position": "Seguridad",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3324,
+    "user": "Brian Reyes/ Ricardo Sevilla",
+    "dept": "M.E.",
+    "position": "Asist. M.E.",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3310,
+    "user": "Under Armour",
+    "dept": "Inspeccion de QC",
+    "position": "",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3311,
+    "user": "Elizabeth Hernandez / Juan Forno",
+    "dept": "Inspeccion de QC",
+    "position": "Jefe Secci�n / Asistente",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3312,
+    "user": "Isaura  Alvarez/ Katherine Aragon",
+    "dept": "Empaque",
+    "position": "Asistente Empaque",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3316,
+    "user": "Sr. Kang (jmkang)",
+    "dept": "Empaque",
+    "position": "Gte. Empaque",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3313,
+    "user": "Bodega Accesorios",
+    "dept": "Bodega Accesorios",
+    "position": "Bodega Accesorios",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3314,
+    "user": "Ismael Urbina",
+    "dept": "Produccion",
+    "position": "Asist. Produccion",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3317,
+    "user": "Ruby Cruz",
+    "dept": "Taller Mecanica",
+    "position": "Taller",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3319,
+    "user": "Jorge Noriega",
+    "dept": "QA",
+    "position": "Senior QA/QC Manager",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3348,
+    "user": "Maritza Flores",
+    "dept": "QA",
+    "position": "Asist.  QA",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3320,
+    "user": "Clinica",
+    "dept": "Clinica",
+    "position": "Clinica",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3335,
+    "user": "Jessica Gomez",
+    "dept": "Laboratorio 2",
+    "position": "Asist. Laboratorio 2",
+    "city": "managua",
+    "factory": "Planta 1",
+    "state": true
+  },
+  {
+    "ext": 3342,
+    "user": "Daneysi Mayorga",
+    "dept": "Bodega de Tela",
+    "position": "Asist. Bodega de Tela",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3344,
+    "user": "Alexia Membre�o",
+    "dept": "Bodega de Tela",
+    "position": "Asist. Bodega de Tela",
+    "city": "managua",
+    "factory": "Planta 3",
+    "state": true
+  },
+  {
+    "ext": 3336,
+    "user": "Julio Zamora",
+    "dept": "Bodega de Tela",
+    "position": "Jefe de Seccion P1",
+    "city": "managua",
+    "factory": "Planta 4",
+    "state": true
+  },
+  {
+    "ext": 3343,
+    "user": "David Castellon",
+    "dept": "Bodega de Accesorio de Empaque",
+    "position": "Asist. B/Acc Empaque",
+    "city": "managua",
+    "factory": "Planta 5",
+    "state": true
+  },
+  {
+    "ext": 3401,
+    "user": "Heykell Guevara",
+    "dept": "Empaque",
+    "position": "Asist. Empaque",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3403,
+    "user": "Jose Larios / Angelica Cruz",
+    "dept": "M.E.",
+    "position": "Asist. M.E.",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3406,
+    "user": "Bodega de Accesorio B",
+    "dept": "Bodega de Accesorio",
+    "position": "B / Accesorios",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3407,
+    "user": "Clinica",
+    "dept": "Clinica",
+    "position": "Clinica",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3408,
+    "user": "Auditoria",
+    "dept": "Auditoria Under Armour",
+    "position": "Qa Calidad",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3409,
+    "user": "Ana Triana",
+    "dept": "Inspeccion QC",
+    "position": "Asistente Qc",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3410,
+    "user": "Darcy Delgado",
+    "dept": "Nomina",
+    "position": "Nomina",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3414,
+    "user": "Jessica Barreto",
+    "dept": "Mercadeo",
+    "position": "Asist. Mercadeo",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3415,
+    "user": "Ana Castillo",
+    "dept": "Mercadeo",
+    "position": "Asist. Mercadeo",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3438,
+    "user": "Maria Elena Jimenez",
+    "dept": "Mercadeo",
+    "position": "Asist. Mercadeo",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3439,
+    "user": "Nohemy Cordoba",
+    "dept": "Mercadeo",
+    "position": "Asist. Mercadeo",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3440,
+    "user": "Sr. Eddy Ha",
+    "dept": "Mercadeo",
+    "position": "Mercadeo",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3441,
+    "user": "Leybi Mora",
+    "dept": "Mercadeo",
+    "position": "Asist. Mercadeo",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3416,
+    "user": "Maynor Saldana",
+    "dept": "Sistemas",
+    "position": "Sistemas",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3417,
+    "user": "Jonathan Gonzalez /Eneyda Sevilla",
+    "dept": "Auditoria",
+    "position": "Auditoria U/A",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3418,
+    "user": "Ninoska Valle",
+    "dept": "Cumplimiento Social",
+    "position": "Asist. Cumplimiento Social",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3420,
+    "user": "Maria Sanchez",
+    "dept": "Recursos Humanos",
+    "position": "Gte. RR HH",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3421,
+    "user": "Caseta",
+    "dept": "Seguridad",
+    "position": "Seguridad",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3422,
+    "user": "Muestras",
+    "dept": "Muestras",
+    "position": "Muestras",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3424,
+    "user": "Jessica Zavala/Mireya Paiz/Yingrid Cerna",
+    "dept": "Corte",
+    "position": "Asist. Corte",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3430,
+    "user": "Rolando Cardoza / Carlos Flores",
+    "dept": "Corte",
+    "position": "Asist. Corte",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3427,
+    "user": "Marcela Gonzalez",
+    "dept": "Bodega de Accesorios",
+    "position": "Asist. Bodega Accesorios",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3428,
+    "user": "Suhay Ulloa",
+    "dept": "Bodega de Accesorios",
+    "position": "Asist. Bodega Accesorios",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3431,
+    "user": "Martha Peralta/Heydi Gonzalez",
+    "dept": "Produccion Linea",
+    "position": "Asist. de Produccion",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3432,
+    "user": "Cad",
+    "dept": "Cad",
+    "position": "Dise�o",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3433,
+    "user": "Rigo Izaguirre",
+    "dept": "Cad",
+    "position": "Dise�o",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3434,
+    "user": "Darwin Cortez",
+    "dept": "Cad",
+    "position": "Dise�o",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3435,
+    "user": "Anielka Rizo",
+    "dept": "Mecanica",
+    "position": "Asist. Mecanica",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3436,
+    "user": "Cecilio Hernandez",
+    "dept": "Mantenimiento",
+    "position": "Gte. Mantenimiento",
+    "city": "managua",
+    "factory": "Planta 2",
+    "state": true
+  },
+  {
+    "ext": 3600,
+    "user": "Alexander Ruiz",
+    "dept": "Sistemas",
+    "position": "Sistemas",
+    "city": "Diriamba",
+    "factory": "Planta 4",
+    "state": true
+  },
+  {
+    "ext": 3608,
+    "user": "Yida Ure�a",
+    "dept": "Recursos Humanos",
+    "position": "Asist. RR HH",
+    "city": "Diriamba",
+    "factory": "Planta 4",
+    "state": true
+  },
+  {
+    "ext": 3609,
+    "user": "Rosa Miranda",
+    "dept": "Recursos Humanos",
+    "position": "Asist. RR HH",
+    "city": "Diriamba",
+    "factory": "Planta 4",
+    "state": true
+  },
+  {
+    "ext": 3610,
+    "user": "Hilda Jimenez",
+    "dept": "Mercadeo",
+    "position": "Asist. Mercadeo",
+    "city": "Diriamba",
+    "factory": "Planta 4",
+    "state": true
+  },
+  {
+    "ext": 3611,
+    "user": "Keny Medrano",
+    "dept": "Nomina",
+    "position": "Nomina",
+    "city": "Diriamba",
+    "factory": "Planta 4",
+    "state": true
+  },
+  {
+    "ext": 3612,
+    "user": "Luis Gonzalez",
+    "dept": "M.E.",
+    "position": "M.E.",
+    "city": "Diriamba",
+    "factory": "Planta 4",
+    "state": true
+  },
+  {
+    "ext": 3613,
+    "user": "Versy Gutierrez",
+    "dept": "Corte",
+    "position": "Asist. Corte",
+    "city": "Diriamba",
+    "factory": "Planta 4",
+    "state": true
+  },
+  {
+    "ext": 3614,
+    "user": "Ana Garc�a",
+    "dept": "QA",
+    "position": "QA",
+    "city": "Diriamba",
+    "factory": "Planta 4",
+    "state": true
+  },
+  {
+    "ext": 3616,
+    "user": "Ofelia Arguello",
+    "dept": "Mecanica",
+    "position": "Asist. Mecanica",
+    "city": "Diriamba",
+    "factory": "Planta 4",
+    "state": true
+  }
+]

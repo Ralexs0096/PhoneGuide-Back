@@ -15,7 +15,9 @@ const getPbxExtensionByFactory = async (req, res) => {}
 const postNewPbxExtension = async (req, res) => {}
 
 const postPbxExtensions = async (req, res) => {
-  const pbxs = await PbxCatalog.insertMany(req.body.pbx)
+  await PbxCatalog.insertMany(req.body)
+
+  res.send('Ok!')
 }
 
 module.exports = {

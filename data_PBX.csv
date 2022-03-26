@@ -1,0 +1,64 @@
+ext;user;dept;position;city;factory;state
+3969;Cynthia Guerrero;Serigrafia;Entradas y Salidas-Serigrafias;diriamba;Planta 5;true
+3970;Joseph Berrios;Serigrafia;Serigrafia;diriamba;Planta 5;true
+3301;Roxana Sanchez  ;Cumplimiento Social;Asist. Cumplimiento Social;managua;Planta 1;true
+3302;Ernesto Alvarado ;Mercadeo ;Asist. Mercadeo ;managua;Planta 1;true
+3304;Kwang Su Lee  (Sr Zion);Mercadeo ;Gte. Mercadeo ;managua;Planta 1;true
+3305;Martha Ruiz ;Nomina ;Nomina ;managua;Planta 1;true
+3306;Eliett Artola ;Recursos Humanos;Asist. RR HH;managua;Planta 1;true
+3307;Maria Gabriela Esquivel ;Recursos Humanos;Gte. RR HH;managua;Planta 1;true
+3309;Seguridad Entrada Principal;Seguridad;Seguridad;managua;Planta 1;true
+3324;Brian Reyes/ Ricardo Sevilla ;M.E.;Asist. M.E.;managua;Planta 1;true
+3310;Under Armour ;Inspeccion de QC;;managua;Planta 1;true
+3311;Elizabeth Hernandez / Juan Forno;Inspeccion de QC;Jefe Seccion / Asistente;managua;Planta 1;true
+3312;Isaura  Alvarez/ Katherine Aragon  ;Empaque;Asistente Empaque ;managua;Planta 1;true
+3316;Sr. Kang (jmkang);Empaque;Gte. Empaque;managua;Planta 1;true
+3313;Bodega Accesorios;Bodega Accesorios;Bodega Accesorios;managua;Planta 1;true
+3314;Ismael Urbina ;Produccion ;Asist. Produccion ;managua;Planta 1;true
+3317;Ruby Cruz ;Taller Mecanica;Taller;managua;Planta 1;true
+3319;Jorge Noriega ;QA;Senior QA/QC Manager;managua;Planta 1;true
+3348;Maritza Flores ;QA;Asist.  QA;managua;Planta 1;true
+3320;Clinica;Clinica;Clinica;managua;Planta 1;true
+3335;Jessica Gomez ;Laboratorio 2;Asist. Laboratorio 2;managua;Planta 1;true
+3342;Daneysi Mayorga ;Bodega de Tela ;Asist. Bodega de Tela ;managua;Planta 2;true
+3344;Alexia Membre�o;Bodega de Tela ;Asist. Bodega de Tela ;managua;Planta 3;true
+3336;Julio Zamora ;Bodega de Tela ;Jefe de Seccion P1 ;managua;Planta 4;true
+3343;David Castellon ;Bodega de Accesorio de Empaque ;Asist. B/Acc Empaque ;managua;Planta 5;true
+3401;Heykell Guevara ;Empaque;Asist. Empaque ;managua;Planta 2;true
+3403;Jose Larios / Angelica Cruz ;M.E.;Asist. M.E.;managua;Planta 2;true
+3406;Bodega de Accesorio B;Bodega de Accesorio ;B / Accesorios;managua;Planta 2;true
+3407;Clinica;Clinica;Clinica;managua;Planta 2;true
+3408;Auditoria ;Auditoria Under Armour ;Qa Calidad ;managua;Planta 2;true
+3409;Ana Triana ;Inspeccion QC;Asistente Qc;managua;Planta 2;true
+3410;Darcy Delgado ;Nomina ;Nomina ;managua;Planta 2;true
+3414;Jessica Barreto ;Mercadeo  ;Asist. Mercadeo ;managua;Planta 2;true
+3415;Ana Castillo;Mercadeo  ;Asist. Mercadeo ;managua;Planta 2;true
+3438;Maria Elena Jimenez ;Mercadeo  ;Asist. Mercadeo ;managua;Planta 2;true
+3439;Nohemy Cordoba ;Mercadeo  ;Asist. Mercadeo ;managua;Planta 2;true
+3440;Sr. Eddy Ha ;Mercadeo  ;Mercadeo ;managua;Planta 2;true
+3441;Leybi Mora ;Mercadeo  ;Asist. Mercadeo ;managua;Planta 2;true
+3416;Maynor Saldana;Sistemas;Sistemas;managua;Planta 2;true
+3417;Jonathan Gonzalez /Eneyda Sevilla;Auditoria  ;Auditoria U/A;managua;Planta 2;true
+3418;Ninoska Valle  ;Cumplimiento Social;Asist. Cumplimiento Social;managua;Planta 2;true
+3420;Maria Sanchez ;Recursos Humanos;Gte. RR HH;managua;Planta 2;true
+3421;Caseta ;Seguridad;Seguridad;managua;Planta 2;true
+3422;Muestras;Muestras;Muestras;managua;Planta 2;true
+3424;Jessica Zavala/Mireya Paiz/Yingrid Cerna;Corte;Asist. Corte;managua;Planta 2;true
+3430;Rolando Cardoza / Carlos Flores ;Corte;Asist. Corte;managua;Planta 2;true
+3427;Marcela Gonzalez ;Bodega de Accesorios ;Asist. Bodega Accesorios;managua;Planta 2;true
+3428;Suhay Ulloa ;Bodega de Accesorios ;Asist. Bodega Accesorios;managua;Planta 2;true
+3431;Martha Peralta/Heydi Gonzalez;Produccion Linea ;Asist. de Produccion;managua;Planta 2;true
+3432;Cad ;Cad ;Dise�o;managua;Planta 2;true
+3433;Rigo Izaguirre;Cad ;Dise�o;managua;Planta 2;true
+3434;Darwin Cortez ;Cad ;Dise�o;managua;Planta 2;true
+3435;Anielka Rizo ;Mecanica;Asist. Mecanica;managua;Planta 2;true
+3436;Cecilio Hernandez ;Mantenimiento;Gte. Mantenimiento;managua;Planta 2;true
+3600;Alexander Ruiz;Sistemas;Sistemas;Diriamba;Planta 4;true
+3608;Yida Ure�a;Recursos Humanos;Asist. RR HH;Diriamba;Planta 4;true
+3609;Rosa Miranda;Recursos Humanos;Asist. RR HH;Diriamba;Planta 4;true
+3610;Hilda Jimenez;Mercadeo;Asist. Mercadeo;Diriamba;Planta 4;true
+3611;Keny Medrano;Nomina ;Nomina ;Diriamba;Planta 4;true
+3612;Luis Gonzalez;M.E.;;Diriamba;Planta 4;true
+3613;Versy Gutierrez;Corte;Asist. Corte;Diriamba;Planta 4;true
+3614;Ana Garc�a;QA;;Diriamba;Planta 4;true
+3616;Ofelia Arguello;Mecanica;Asist. Mecanica;Diriamba;Planta 4;true

@@ -2,11 +2,11 @@ const { Schema, model } = require('mongoose')
 
 const PbxCatalogSchema = new Schema(
   {
-    ext: { type: Number, unique: true, required: true },
+    ext: { type: Number, unique: true },
     user: { type: String },
-    dept: { type: String, required: true },
+    dept: { type: String },
     city: { type: String },
-    factory: { type: String, required: true },
+    factory: { type: String },
     position: { type: String },
     state: { type: Boolean, default: true },
   },
