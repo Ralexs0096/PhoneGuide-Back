@@ -1,24 +1,24 @@
-const PbxCatalog = require('../models/PbxCatalog.model')
+const PbxCatalog = require('../models/PbxCatalog.model');
 
 // Get Methods
 const getAllPbxExtension = async (req, res) => {
-  const PbxExtensions = await PbxCatalog.find({})
-  res.send(PbxExtensions)
-}
+  const PbxExtensions = await PbxCatalog.find({});
+  res.send(PbxExtensions);
+};
 
-const getOnePbxExtension = async (req, res) => {}
+const getOnePbxExtension = async (req, res) => {};
 
-const getPbxExtensionByFactory = async (req, res) => {}
+const getPbxExtensionByFactory = async (req, res) => {};
 
 // Post Methods
 
-const postNewPbxExtension = async (req, res) => {}
+const postNewPbxExtension = async (req, res) => {};
 
 const postPbxExtensions = async (req, res) => {
-  await PbxCatalog.insertMany(req.body)
+  await PbxCatalog.insertMany(req.body);
 
-  res.send('Ok!')
-}
+  res.send('Ok!');
+};
 
 module.exports = {
   getAllPbxExtension,
@@ -26,4 +26,4 @@ module.exports = {
   getPbxExtensionByFactory,
   postNewPbxExtension,
   postPbxExtensions,
-}
+};
